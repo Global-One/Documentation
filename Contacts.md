@@ -11,3 +11,9 @@
   * Email: asya.kosareva666@gmail.com
   * GitLab: https://gitlab.com/damn_lestat
   * University: KPI, FICT (Kyiv, Politehnichna street, 41)
+
+* ## Vladyslav Synytsyn
+  * Phone: +380970879519
+  * Email: blad600@gmail.com
+  * Github: https://github.com/BlaD200
+  * University: NauKMA, FI (Kyiv, Hryhoriya Skovorody St, 2)
