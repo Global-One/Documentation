@@ -17,3 +17,9 @@
   * Email: blad600@gmail.com
   * Github: https://github.com/BlaD200
   * University: NauKMA, FI (Kyiv, Hryhoriya Skovorody St, 2)
+  
+* ## Maksym Piavchyk
+  * Phone: +380964467908
+  * Email: m.piavchyk@kpi.ua
+  * Github: https://github.com/MaksymPiavchyk
+  * University: KPI, ITS 
