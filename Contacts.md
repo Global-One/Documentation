@@ -23,3 +23,14 @@
   * Email: sleeper253@gmail.com
   * Github: https://github.com/Kalyzha38
   * University: KPI, FICT (Kyiv, Politehnichna street, 41)
+
+# Project infotmation
+* ## Project's github repository
+https://github.com/Global-One/Traffic-controller
+* ## Project's firebase DB
+https://console.firebase.google.com/u/0/project/green-waves/database/green-waves/data
+* ## Project's GCP 
+https://console.cloud.google.com/home/dashboard?project=green-waves&hl=ru
+
+## Demo server
+/* in progress */
